@@ -2,6 +2,7 @@
 
 import cv2 as cv
 #hello
+#hi
 img = cv.imread('../Resources/Photos/cats.jpg')
 cv.imshow('Cats', img)
 
